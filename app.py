@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 import altair as alt
 
+#Live app: https://niloofar-shahsavar-python-uppgift4.streamlit.app/
+#GitHub-repo: https://github.com/niloofar-shahsavar/Uppgift4/
+
 st.set_page_config(
     page_title="S&P 500",
     page_icon="📊",
